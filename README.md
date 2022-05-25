@@ -1,6 +1,5 @@
 # Lua-NanoSnap
 Algorithms
-
 * FFT
 * IFFT
 * STFT
